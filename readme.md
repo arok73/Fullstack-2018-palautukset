@@ -1,2 +1,1 @@
-# OSA 0
-tehtävien palautuksia
+# FULLSTACK OPEN 2018 -kurssi MOOC.fi
